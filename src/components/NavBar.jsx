@@ -30,7 +30,7 @@ const NavBar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ms-2">
                         <li className="nav-item">
-                            <Link className="nav-link text-white fw-bold" to="/">🏠 Home</Link>
+                            <Link className="nav-link text-white fw-bold" to="/">Home</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link text-white" to="/category/nuevos">Nuevos</Link>
